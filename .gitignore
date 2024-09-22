@@ -1,0 +1,11 @@
+.bash_logout
+.bashrc 
+.bash_profile
+.config/
+.histfile
+.npm/
+.zcompdump
+.zshrc
+.bash*
+.zsh*
+
